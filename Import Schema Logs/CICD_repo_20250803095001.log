@@ -1,0 +1,10 @@
+8/3/2025 3:20:01 PM	This log contains information about the import schema operation into project 'CICD_repo' on computer 'VISHAL' by user 'Vishal jain'.
+8/3/2025 3:20:01 PM	Deserializing model
+8/3/2025 3:20:02 PM	Resolving model
+8/3/2025 3:20:03 PM	Visiting imported model for types
+8/3/2025 3:20:03 PM	Scanning project for duplicate elements
+8/3/2025 3:20:03 PM	Finished duplicate element processing
+8/3/2025 3:20:07 PM	Processing extra files
+8/3/2025 3:20:07 PM	Finished importing Data-tier Application file.
+8/3/2025 3:20:07 PM	A summary of the import was saved to the following location: C:\project\CICD\CICD_repo\CICD_repo\CICD_repo\Import Schema Logs\CICD_repo_20250803095001.log
+8/3/2025 3:20:07 PM	Click Finish to continue...
